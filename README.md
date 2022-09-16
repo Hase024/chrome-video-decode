@@ -4,5 +4,5 @@ Run the following command to enable hardware accelerated video decode in Google 
 It must be installed as a flatpak, most likely via flathub, to work.
 
 ```bash
-curl https://raw.githubusercontent.com/remlse/chrome-video-decode/main/enable.sh | bash
+curl https://raw.githubusercontent.com/Hase024/chrome-video-decode/main/enable.sh | bash
 ```
